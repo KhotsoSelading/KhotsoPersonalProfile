@@ -22,7 +22,7 @@ function closemenu() {
     sidemenu.style.right = "-200px";
 }
 
-const scriptURL = '< add your own link here >';
+const scriptURL = '<add your own link here>';
 const form = document.forms['submit-to-google-sheet'];
 const msg = document.getElementById("msg");
 
